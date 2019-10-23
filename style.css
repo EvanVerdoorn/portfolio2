@@ -167,8 +167,16 @@ ul a {
   padding-right: 10%;
 }
 
+.divberoepsbeeld {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
 
-
-
+.selfieimg {
+  -webkit-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+}
 
 
